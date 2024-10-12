@@ -30,7 +30,6 @@
 
 - **Experience Gain:**
   - Players earn XP passively when outside the spawn area.
-  - The longer they stay outside, the more XP they accumulate.
 
 - **Leveling Up:**
   - Upon reaching the XP threshold, players level up.
