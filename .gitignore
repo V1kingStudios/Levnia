@@ -1,41 +1,63 @@
-# Compiled Lua sources
-luac.out
+# System-specific files
+.DS_Store
+Thumbs.db
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+# Roblox Studio backup files
+*.rbxlx
+*.rbxl
+*.rblx
+*.rbl
+*.rblproj
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# Roblox plugin backups
+*.rblproj.backup
 
-# Precompiled Headers
-*.gch
-*.pch
+# Roblox auto-saves
+*.autosave.*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+# Compiled Lua files (if using any external compilers)
+*.luac
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Roblox Library-specific files
+Modules/
+Packages/
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Temp files and caches
+temp/
+*.tmp
+*.log
+.cache/
 
+# Node.js and npm related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Husky and commitlint related
+.husky/_/
+.husky/commit-msg
+package-lock.json
+yarn.lock
+
+# IDE-specific files (Visual Studio Code)
+.vscode/
+*.code-workspace
+
+# Other IDEs (if used)
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Logs and dependencies
+*.log
+
+# Ignore package-lock.json or yarn.lock (if applicable)
+package-lock.json
+yarn.lock
