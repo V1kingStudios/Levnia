@@ -1,6 +1,6 @@
-# Level Up Legends
+# Levnia
 
-*Level Up Legends* is a competitive multiplayer game on Roblox where every player begins at level 1. The core mechanic revolves around exploration, combat, and strategic upgrading. Players gain experience (XP) by venturing outside the safe spawn area. Upon leveling up, they choose one of three randomly presented upgrades to enhance their abilities. Defeating other players grants a percentage of the total XP they have accumulated in their current life. If a player is defeated, they reset to level 1 and lose all acquired upgrades. The game encourages players to balance risk and reward, fostering an engaging and replayable experience.
+*Levnia* is a competitive multiplayer game on Roblox where every player begins at level 1. The core mechanic revolves around exploration, combat, and strategic upgrading. Players gain experience (XP) by venturing outside the safe spawn area. Upon leveling up, they choose one of three randomly presented upgrades to enhance their abilities. Defeating other players grants a percentage of the total XP they have accumulated in their current life. If a player is defeated, they reset to level 1 and lose all acquired upgrades. The game encourages players to balance risk and reward, fostering an engaging and replayable experience.
 
 ---
 
