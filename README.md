@@ -9,6 +9,7 @@
 - [Gameplay Mechanics](#gameplay-mechanics)
 - [Progression System](#progression-system)
 - [Upgrade Categories](#upgrade-categories)
+- [Weapon Types](#weapon-types)
 - [Combat System](#combat-system)
 - [Environment and Map Design](#environment-and-map-design)
 - [Art Style and Aesthetics](#art-style-and-aesthetics)
@@ -34,6 +35,11 @@
 - **Leveling Up:**
   - Upon reaching the XP threshold, players level up.
   - Each level-up presents three random upgrades; players select one.
+
+- **Prestige Mechanic:**
+  - After reaching a certain level, players can choose to prestige.
+  - Grants unique upgrades and cosmetic rewards.
+  - Resets the player to level 1 with their new bonuses.
 
 - **Upgrades:**
   - Enhance abilities such as strength, speed, defense, or grant special skills.
@@ -74,31 +80,106 @@
 
 - **Offensive Upgrades:**
   - Increase attack damage.
-  - Unlock new weapon types or attack styles.
+  - Unlock new weapon types.
+  - Add elemental effects to attacks (e.g., fire, ice).
+  - Improve critical hit chance or damage.
 
 - **Defensive Upgrades:**
   - Enhance health points or armor.
-  - Provide resistance to certain attack types.
+  - Provide resistance to certain attack types (e.g., fire, poison).
+  - Dodge chance or block effectiveness.
 
 - **Utility Upgrades:**
-  - Improve movement speed or agility.
-  - Grant abilities like invisibility for short durations or radar detection.
+  - Improve movement speed or jump height.
+
+- **Prestige Upgrades:**
+  - Unique abilities or stat boosts.
+
+---
+
+## Available Stats
+
+- Stats are the core attributes that define a player's abilities and effectiveness in combat. Players can upgrade these stats to improve their performance in various areas. Not all stats are usable by all players, as some are specific to certain weapon types or playstyles.
+
+- **Strength:**
+  - Increases damage output.
+  - Affects critical hit chance and damage.
+
+- **Defense:**
+  - Reduces incoming damage.
+  - Improves block effectiveness.
+
+- **Health:**
+  - Determines maximum health points.
+  - Affects health regeneration rate.
+
+- **Speed:**
+  - Affects movement speed and attack rate.
+  - Influences dodge chance.
+
+- **Elemental Resistances:**
+  - Reduces damage from specific elemental attacks.
+
+- **Critical Hit Chance:**
+  - Chance to deal bonus damage on attacks.
+
+- **Critical Hit Damage:**
+  - Increases the bonus damage dealt on critical hits.
+
+- **Dodge Chance:**
+  - Chance to avoid incoming attacks.
+
+- **Block Effectiveness:**
+  - Reduces damage taken when blocking.
+
+- **Armor Penetration:**
+  - Ignores a percentage of the target's armor.
+
+- **Stun Chance:**
+  - Chance to stun the target on hit.
+
+- **Bleed Chance:**
+  - Chance to cause bleeding damage over time.
+
+---
+
+## Weapon Types
+
+- **Sword:**
+  - Standard weapon with balanced stats.
+  - Fast attack speed and moderate damage.
+  - Versatile and easy to use.
+
+- **Axe:**
+  - Slower but higher damage output.
+  - Chance to cause bleeding damage over time.
+
+- **Spear:**
+  - Longer reach and piercing attacks.
+  - Lower damage but higher critical hit chance.
+
+- **Club:**
+  - Slow attack speed but high stun chance.
+  - Deals bonus damage to armored opponents.
 
 ---
 
 ## Combat System
 
 - **Basic Combat:**
-  - Standard attack available from level 1.
-  - Simple controls for accessibility.
+  - Melee-focused with a variety of weapon types.
+  - Simple attack, parry or block mechanics.
+  - Focus on timing and positioning.
 
 - **Advanced Combat:**
-  - Upgrades unlock special moves or abilities.
   - Includes combos or charged attacks.
+  - idk what else to put here
 
 - **Damage Calculation:**
   - Based on attacker's strength vs. defender's defense.
   - Features critical hits and block mechanics.
+  - Elemental effects can modify damage calculations.
+  - Armor penetration and resistances affect damage.
 
 ---
 
@@ -110,11 +191,11 @@
 
 - **Exploration Zones:**
   - Diverse terrains: forests, caves, ruins.
-  - Environmental hazards offering higher XP rewards.
+  - Different biomes with unique challenges and rewards.
 
 - **Map Features:**
-  - Hidden areas with power-ups or temporary buffs.
-  - Vantage points for ambushes or defense.
+  - Obstacles, traps, and environmental hazards.
+  - Hidden areas with rare upgrades or resources.
 
 ---
 
@@ -246,7 +327,3 @@
 ## Conclusion
 
 *Level Up Legends* offers an engaging blend of exploration, combat, and strategic progression. With a focus on replayability and player choice, it aims to stand out on the Roblox platform. The collaborative effort leverages both team members' strengths, ensuring a well-rounded and polished final product.
-
----
-
-**Note:** This document serves as a foundational blueprint. Further details and adjustments may be made as development progresses and testing provides new insights.
