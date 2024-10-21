@@ -326,4 +326,4 @@
 
 ## Conclusion
 
-*Level Up Legends* offers an engaging blend of exploration, combat, and strategic progression. With a focus on replayability and player choice, it aims to stand out on the Roblox platform. The collaborative effort leverages both team members' strengths, ensuring a well-rounded and polished final product.
+*Levnia* offers an engaging blend of exploration, combat, and strategic progression. With a focus on replayability and player choice, it aims to stand out on the Roblox platform. The collaborative effort leverages both team members' strengths, ensuring a well-rounded and polished final product.
